@@ -2,7 +2,7 @@
 Python CLI to grab a gitignore any gitgnore file.
 
 ## Usage
-`python3 -m grabignore [languages] --dest=/some/destination` --reload=True`
+`python3 -m grabignore [languages] --dest=/some/destination --reload=True`
 
 - languages: gitignore files you want to fetch.
 - dest (optional): path where you want files to be downloaded to. Defaulted to current directory.
